@@ -1,0 +1,7 @@
+# Godot cache and local build output
+.godot/
+*.import
+export/
+
+# autotest screenshots
+shots/
